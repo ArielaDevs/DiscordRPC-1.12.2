@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "RichPresence",
+    "name": "RichPresence",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/ArielaDevs",
+    "updateUrl": "https://github.com/ArielaDevs/RichPresence",
+    "authorList": [
+      "ArielaDevs", "RyanPereiraS"
+    ],
+    "credits": "RyanPereiraS",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
